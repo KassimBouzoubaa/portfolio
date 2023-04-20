@@ -2,6 +2,7 @@ import Krypto from '../assets/projects/krypto.png'
 import Metaverse from "../assets/projects/metaverse.png"
 import Netflix from "../assets/projects/netflix.png"
 import TopEats from "../assets/projects/topeats.png"
+import Tutor from "../assets/projects/tutor.png"
 
 
 export const data=[
@@ -16,7 +17,7 @@ export const data=[
     {
         id:1,
         name:"Crypto Tutor",
-        image:tutor,
+        image:Tutor,
         github:"https://github.com/KassimBouzoubaa/crypto_tutor",
         live:"https://crypto-tutor.vercel.app/",
         description:"Cette application offre la possibilité d'envoyer des ethers sur le réseau de test ethereum (goerli) tout en affichant les dernières transactions en temps réel. Elle est connectée à la blockchain et permet d'interagir avec des smart contracts tout en connectant son portefeuille Metamask. Elle a été développée en utilisant les technologies React/TailwindCSS ainsi que solidity/hardhat/ethersjs."
