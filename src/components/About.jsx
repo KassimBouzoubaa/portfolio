@@ -20,18 +20,7 @@ const About = () => {
           </div>
           <div>
             <p>
-              Je suis Kassim Bouzoubaa, un développeur full-stack passionné et
-              expérimenté depuis 1 an. Je suis spécialisé dans les technologies
-              telles que React, React Native, TypeScript, NodeJS, GraphQL et
-              Solidity, et j'aime particulièrement travailler sur des projets
-              autour de l'univers de la blockchain.
-              <br />
-              <br />
-              Je suis un fervent utilisateur de la méthode Agile SCRUM et
-              j'adore travailler en équipe pour apporter des solutions créatives
-              et efficaces à des problèmes complexes.Si vous êtes à la recherche
-              d'un développeur full-stack qualifié et passionné pour votre
-              prochain projet, je serais ravi de vous aider à le réaliser.
+            Kassim Bouzoubaa, développeur full-stack passionné depuis un an, expert en React, NodeJS, Python et Solidity. Agile avec la méthode SCRUM, je favorise la collaboration pour des solutions créatives et efficaces. Disponible pour votre projet !
             </p>
           </div>
         </div>

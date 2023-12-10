@@ -12,7 +12,7 @@ import Tailwind from '../assets/tailwind.png';
 import Mongo from '../assets/mongo.png';
 import TypeScript from "../assets/typescript.png"
 import Solidity from "../assets/solidity.png"
-import GraphQl from "../assets/graphql.png"
+import Python from "../assets/python.png"
 
 const Skills = () => {
   return (
@@ -70,8 +70,8 @@ const Skills = () => {
                   <p className='my-4'>SOLIDITY</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={GraphQl} alt="HTML icon" />
-                  <p className='my-4'>GRAPHQL</p>
+                  <img className='w-20 mx-auto' src={Python} alt="HTML icon" />
+                  <p className='my-4'>PYTHON</p>
               </div>
           </div>
       </div>
