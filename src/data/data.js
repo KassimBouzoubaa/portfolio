@@ -46,7 +46,7 @@ export const data=[
         image:Metaverse,
         github:"https://github.com/KassimBouzoubaa/Metaverse",
         live:"https://metaverse-sable.vercel.app/",
-        description:"Metaverse est une landing page sur le thème du Metaverse. L'application à été produite grâce à Next JS, React, le framework Motion pour les animations ainsi que tailwind CSS."
+        description:"La landing page Metaverse explore le concept du Metaverse. Réalisée avec Next JS, React, et le framework Motion pour les animations, cette application intègre également Tailwind CSS pour le design."
     },
     {
         id:6,
@@ -54,7 +54,7 @@ export const data=[
         image:Netflix,
         github:"https://github.com/KassimBouzoubaa/Netflix_Clone",
         live:"https://netflix-clone-five-lilac.vercel.app/",
-        description:"Ce projet est un clone de Netflix. J'utilise React et Tailwind CSS pour styliser les composants. J'utilise également l'API TMDB pour récupérer toutes les données et les affichées. J'ai mis en place un système d'authentification grâce à FireBase."
+        description:"Ce projet représente une réplique de Netflix, développée en utilisant React et Tailwind CSS pour concevoir l'interface visuelle. J'intègre l'API TMDB pour récupérer et afficher toutes les données nécessaires. De plus, j'ai implémenté un système d'authentification grâce à FireBase."
     },
     {
         id:7,
@@ -62,7 +62,7 @@ export const data=[
         image:TopEats,
         github:"https://github.com/KassimBouzoubaa/topeats",
         live:"https://topeats.vercel.app/",
-        description:"Copie du site UberEats. Construit grâce à React JS et Tailwind CSS. Site responsive et réactif utilisant des mises en page flexibles et en grille. Extraction de toutes les données/images du fichier data.js pour simuler une réponse API."
+        description:"Cette reproduction du site UberEats est élaborée avec React JS et Tailwind CSS. Le site est conçu pour être réactif et adaptable, utilisant des mises en page flexibles et une grille responsive. Toutes les données et images sont extraites du fichier data.js pour simuler une réponse API."
     },
 
 
